@@ -22,4 +22,4 @@ def wordcount(dirname, filename):
 
 
 
-wc(sys.argv[1], sys.argv[2])
+wordcount(sys.argv[1], sys.argv[2])
